@@ -1,3 +1,11 @@
+"""
+El juego no cambia las pantallas para responder las preguntas
+
+"""
+
+
+
+
 import tkinter as tk
 from tkinter import ttk
 import customtkinter as ctk
